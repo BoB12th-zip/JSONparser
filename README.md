@@ -1,2 +1,2 @@
 # JSONparser
-Parse JSOn to XML
+Parse JSON to XML
